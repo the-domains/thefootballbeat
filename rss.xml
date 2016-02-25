@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thefootballbeat]]></title>
         <description><![CDATA[thefootballbeat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thefootballbeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 01:32:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 01:33:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thefootballbeat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Harvard Beats Yale, 29-29"</p>]]></description>
-            <link>undefined88259788-b077-4eb4-b65d-afde13634089/index.html</link>
+            <link>https://thegrid.ai/thefootballbeat/88259788-b077-4eb4-b65d-afde13634089/index.html</link>
             <guid isPermaLink="false">88259788-b077-4eb4-b65d-afde13634089</guid>
-            <pubDate>Thu, 25 Feb 2016 01:32:33 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 01:33:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
