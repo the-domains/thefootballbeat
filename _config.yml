@@ -1,0 +1,28 @@
+name: thefootballbeat
+favicon: null
+layout_spectrum: 0.47883616853505373
+typography_spectrum: 0.8802347423043102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6450907753314823
+  lightness: 0.8026157242711633
+  saturation: 0.31450418126769364
+  rhythmicContrast: 0.06221422413364053
+purpose: []
