@@ -1,6 +1,6 @@
 name: The Football Beat
 favicon: null
-layout_spectrum: 0.47883616853505373
+layout_spectrum: 0.99707
 typography_spectrum: 0.8802347423043102
 title: The Football Beat
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#010101'
+    - '#303030'
+    - '#fefefe'
+    - '#6b6b6b'
+    - '#c3c3c3'
   brandStrength: 0.6450907753314823
   lightness: 0.8026157242711633
   saturation: 0.31450418126769364
