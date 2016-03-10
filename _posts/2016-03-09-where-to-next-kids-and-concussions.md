@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Shit rolls down hill... Lawsuits for concussions that started at the NFL level have now moved down to the junior ranks with the most recent lawsuit against Pop Warner, the largest youth football organization.'
-datePublished: '2016-03-10T01:39:59.535Z'
-dateModified: '2016-03-10T01:39:46.511Z'
+datePublished: '2016-03-10T01:42:53.357Z'
+dateModified: '2016-03-10T01:42:52.057Z'
 author: []
 title: 'Where To Next: Kids and Concussions'
 sourcePath: _posts/2016-03-09-where-to-next-kids-and-concussions.md
@@ -27,4 +27,4 @@ _type: Article
 
 Shit rolls down hill... Lawsuits for concussions that started at the NFL level have now moved down to the junior ranks with the most [recent lawsuit against Pop Warner][0], the largest youth football organization.
 
-[0]: null
+[0]: http://nyp.st/1Ry9rOR
