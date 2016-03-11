@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Football Beat]]></title>
         <description><![CDATA[The Football Beat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thefootballbeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 00:11:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 00:14:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thefootballbeat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Title 2]]></title>
+            <description><![CDATA[<article><h1>Test Title 2</h1><p>Text 2</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3028f7fb7bad7ceef245c23d42fd896d47950134.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thefootballbeat/test-title-2/index.html</link>
+            <guid isPermaLink="false">fd2c6f58-d0b3-4375-a20d-36396694f7f8</guid>
+            <pubDate>Fri, 11 Mar 2016 00:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[test title]]></title>
             <description><![CDATA[<article><h1>test title</h1><p>Test verbiage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bba0f996e180c8a13e41b1e1d41a020b97d9d81.jpg"></article>]]></description>
-            <link>undefinedtest-title/index.html</link>
+            <link>https://thegrid.ai/thefootballbeat/test-title/index.html</link>
             <guid isPermaLink="false">7a78f76b-aa76-4023-8d0a-6728a33d60e3</guid>
             <pubDate>Fri, 11 Mar 2016 00:10:28 GMT</pubDate>
         </item>
