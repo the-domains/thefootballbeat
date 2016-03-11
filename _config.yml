@@ -1,4 +1,19 @@
-analytics: {}
+name: The Football Beat
+favicon: null
+layout_spectrum: 0.50098
+typography_spectrum: 0.50684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#9898D0'
@@ -6,13 +21,8 @@ color:
     - '#A06060'
     - '#1838B8'
     - '#F0D870'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.526182
-  rhythmicContrast: 1
   saturation: 0.514358
-cta: {}
-layout_spectrum: 0.50098
-name: The Football Beat
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0
